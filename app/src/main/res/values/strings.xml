@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Kiwi News</string>
+    <string name="description">As you meander through a life of cricket, you get to know certain numbers and parts of the historical record as familiar landmarks on your way. You see the 26 that New Zealand made in 1955, or scores in the ’30s that were made in 1896 or 1934, and you nod in recognition of those funny early days.</string>
+    <string name="author_text">Rusu Alexandru \n Just for test the maxline 1 attribute </string>
+    <string name="title">India\'s epic Adelaide collapse competes with very worst in history | Geoff Lemon</string>
+    <string name="category">Categorie</string>
+    <string name="date">12.19.2020</string>
+    <string name="image_detail">Image associated with article</string>
+    <string name="no_internet">No internet conectivity </string>
+
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <string name="settings_min_number_label">SORT BY NUMBER</string>
+    <string name="settings_min_number_key" translatable="false">number</string>
+    <string name="settings_min_number_default" translatable="false">30</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_default2" translatable="false">@string/settings_order_by_relevance_value</string>
+    <string name="settings_page_size_key" translatable="false">page-size</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_category_by_key" translatable="false">section</string>
+    <string name="settings_order_by_label">ORDER</string>
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_relevance_label">Most Relevant</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+    <string name="settings_category_by_default" translatable="false">"world"</string>
+    <string name="settings_category_by_label">SORT BY CATEGORY</string>
+
+    <string name="settings_category_by_world_label">World</string>
+    <string name="settings_category_by_tehnology_label">Technology</string>
+    <string name="settings_category_by_politics_label">Politics</string>
+    <string name="settings_category_by_sport_label">Sport</string>
+    <string name="settings_category_by_business_label">Business</string>
+    <string name="settings_category_by_lifeandstyle_label">Lifestyle</string>
+    <string name="settings_category_by_education_label">Education</string>
+    <string name="settings_category_by_environment_label">Environment</string>
+    <string name="settings_category_by_music_label">Music</string>
+    <string name="settings_category_by_science_label">Science</string>
+    <string name="settings_category_by_film_label">Film</string>
+
+    <string name="settings_category_by_world_value" translatable="false">world</string>
+    <string name="settings_category_by_tehnology_value" translatable="false">technology</string>
+    <string name="settings_category_by_politics_value" translatable="false">politics</string>
+    <string name="settings_category_by_sport_value" translatable="false">sport</string>
+    <string name="settings_category_by_business_value" translatable="false">business</string>
+    <string name="settings_category_by_lifeandstyle_value" translatable="false">lifeandstyle</string>
+    <string name="settings_category_by_education_value" translatable="false">education</string>
+    <string name="settings_category_by_environment_value" translatable="false">environment</string>
+    <string name="settings_category_by_music_value" translatable="false">music</string>
+    <string name="settings_category_by_science_value" translatable="false">science</string>
+    <string name="settings_category_by_film_value" translatable="false">film</string>
+
+</resources>

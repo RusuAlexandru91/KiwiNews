@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_most_recent_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_most_recent_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+    <string-array name="settings_category_by_labels">
+        <item>@string/settings_category_by_world_label</item>
+        <item>@string/settings_category_by_tehnology_label</item>
+        <item>@string/settings_category_by_politics_label</item>
+        <item>@string/settings_category_by_sport_label</item>
+        <item>@string/settings_category_by_business_label</item>
+        <item>@string/settings_category_by_lifeandstyle_label</item>
+        <item>@string/settings_category_by_education_label</item>
+        <item>@string/settings_category_by_environment_label</item>
+        <item>@string/settings_category_by_music_label</item>
+        <item>@string/settings_category_by_science_label</item>
+        <item>@string/settings_category_by_film_label</item>
+    </string-array>
+    <string-array name="settings_category_by_values">
+        <item>@string/settings_category_by_world_value</item>
+        <item>@string/settings_category_by_tehnology_value</item>
+        <item>@string/settings_category_by_politics_value</item>
+        <item>@string/settings_category_by_sport_value</item>
+        <item>@string/settings_category_by_business_value</item>
+        <item>@string/settings_category_by_lifeandstyle_value</item>
+        <item>@string/settings_category_by_education_value</item>
+        <item>@string/settings_category_by_environment_value</item>
+        <item>@string/settings_category_by_music_value</item>
+        <item>@string/settings_category_by_science_value</item>
+        <item>@string/settings_category_by_film_value</item>
+    </string-array>
+
+
+</resources>
